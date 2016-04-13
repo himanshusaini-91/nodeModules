@@ -1,0 +1,15 @@
+{
+  "name": "hmflight",
+  "version": "1.0.0",
+  "description": "this is flight module",
+  "main": "flight.js",
+  "scripts": {
+    "start":"node testflight.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "flight"
+  ],
+  "author": "",
+  "license": "ISC"
+}

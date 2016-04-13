@@ -1,0 +1,16 @@
+{
+  "name": "simplestmodule",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start":"node caller.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "basic",
+    "module"
+  ],
+  "author": "",
+  "license": "ISC"
+}
